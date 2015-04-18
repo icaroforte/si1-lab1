@@ -1,0 +1,76 @@
+body{
+	
+	background: linear-gradient(to right, #003333 , #000000);
+	margin: 50px 80px 50px 50px;
+	color: #E8E8E8;
+	font-family: Trebuchet MS, Comic Sans MS, Arial;
+	font-size: 17px;
+	
+}
+
+.cabecalho{
+	margin: 50px 80px 50px 50px;
+	font-size: 26px;
+	font-weight: bold;
+	color: aquamarine;
+	text-align: center;
+	font-family: Trebuchet MS, Comic Sans MS, Arial;
+}
+
+.intro{
+
+	font-family: Trebuchet MS, Comic Sans MS, Arial;
+	font-size: 19px;
+
+}
+
+p{
+	margin-left: 25px;
+	font-family:  Trebuchet MS, Comic Sans MS, Arial;
+}
+
+ul{
+
+	border: solid black 2px;
+	border-radius: 7%;
+	list-style-position: inside;	
+	list-style-type: circle;
+	
+}
+.espaco{
+	margin-top: 40px;
+}
+.molduraAssuntos{
+	width: 300px;
+}
+.end{
+	text-align: center;
+}
+
+.botao{
+	font:normal 19px Trebuchet MS, Courier, monospace;
+	font-style:normal;
+	color:#000000;
+	background:#E8E8E8;
+	border:2px hidden #ffffff;
+	text-shadow:0px 0px 3px #134c91;
+	box-shadow:-1px 1px 6px #000000;
+	-moz-box-shadow:-1px 1px 6px #000000;
+	-webkit-box-shadow:-1px 1px 6px #000000;
+	border-radius:0px 25px 0px 25px;
+	-moz-border-radius:0px 25px 0px 25px;
+	-webkit-border-radius:0px 25px 0px 25px;
+	width:202px;
+	padding:10px 10px;
+	cursor:pointer;
+	margin:0 auto;
+}
+.botao:active{
+cursor:pointer;
+position:relative;
+top:2px;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}

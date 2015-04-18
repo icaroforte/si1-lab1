@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+	<link type="text/css" rel="stylesheet" href="cadastro.css"/> 
+	<title>Cadastro</title>
+
+
+<body>
+
+	<div class="cadastro"> 
+		
+		<form action="" method="post" class="elegant-aero">
+    <h1>Cadastro 
+        <span>Por favor, preencha os campos abaixo com seus dados</span>
+    </h1>
+    <label>
+        <span>Nome :</span>
+        <input id="name" type="text" name="name" placeholder="Seu primeiro nome" />
+    </label>
+    
+    <label>
+        <span>Sobrenome :</span>
+        <input id="sobrenome" type="text" name="sobrenome" placeholder="Seu sobrenome" />
+    </label>
+    
+    <label>
+        <span>Matrícula :</span>
+        <input id="matrícula" type="text" name="matricula" placeholder="Sua matrícula" />
+    </label>
+    
+	 <label>
+        <span>Período :</span>
+        <input id="período" type="text" name="período" placeholder="Seu período" />
+    </label>    
+
+
+		<label>
+		<span>Masculino: </span>		
+		<input type="radio" name="sexo" value="masculino">
+		</label>
+		<label>		
+		<span>Feminino: </span>		
+		<input type="radio" name="sexo" value="feminino">    	
+    	</label>
+    	
+    	<label>
+        <span>&nbsp;</span> 
+        <a href="index.html" ><input type="button" class="button" value="Cadastrar" /> 
+    </label> 
+    	   
+</form>
+	
+	</div>
+
+</body>
+
+</html>

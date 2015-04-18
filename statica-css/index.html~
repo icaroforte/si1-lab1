@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<head>
+	<link type="text/css" rel="stylesheet" href="index.css"/> 
+	
+	<title>Sistemas da Informação 1</title>
+
+</head>
+
+<body>
+
+		<div class="cabecalho">Porque estudar Sistemas da Informação 1?</div>
+		<div class="intro">
+			
+			Cursar SI1 é uma boa maneira de você, estudante de Ciência	da computação, aprender linguagens e técnicas para 
+	 desenvolvimento Web.
+	 
+		</div>
+		<div class="espaco">
+			<p>Neste curso você irá aprender a utilizar:</p>
+		</div>
+		<div class="molduraAssuntos">	
+		<ul><li>GIT - Controle de versão</li>
+			<li>HTML</li>
+			<li>CSS</li>
+			<li>Bootstrap</li>
+			<li>Javascript (jQuery)</li>
+			<li>Play! Framework</li>
+			<li>SGBD/JPA</li>
+			<li>Heroku</li>
+		</ul>
+		</div>
+		
+		<div class="espaco"> 
+			<p>O objetivo do curso é que ao final, o aluno esteja capacitado à desenvolver sites de maneira profissional 
+			utilizando o que há de mais novo e bem visto no mercado de trabalho.</p>		
+		</div>
+		
+		<p class="end">Caso esteja convencido e queira cursar SI1, que tal fazer um cadastro?</p>
+		
+		<a href="cadastro.html"><div class="botao">Sim me convenci!</div></a>
+		
+</body>
+
+</html>

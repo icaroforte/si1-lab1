@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<head>
+	<link type="text/css" rel="stylesheet" href="agradecimento.css"/> 
+	
+	<title>Agradecimento</title>
+
+</head>
+<body>
+
+	<h2>Seu cadastro foi realizado com</h2>
+	
+	
+	<div><ul>
+  		<li><a href="index.html" class="round green">SU<span class="round">Você será capaz de</span></a></li>
+  		<li><a href="index.html" class="round red">CES<span class="round">Ao final do curso fazer</span></a></li>
+		<li><a href="index.html" class="round yellow">SO!<span class="round">Isso e muito mais! ;D</span></a></li>
+	</ul></div> 
+
+	<p>Clique em um dos círculos acima para voltar à página inicial!</p>
+
+
+</body>
+
+</html>
