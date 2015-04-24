@@ -1,7 +1,7 @@
 body{
-	
+
 	background: linear-gradient(to right, #003333 , #000000);
-	margin: 50px 80px 50px 50px;
+	margin: 150px 80px 50px 50px;
 	color: #E8E8E8;
 	font-family: Trebuchet MS, Comic Sans MS, Arial;
 	font-size: 17px;
@@ -9,6 +9,10 @@ body{
 }
 
 h2{
+	text-align: center;
+}
+
+p{
 	text-align: center;
 }
 
